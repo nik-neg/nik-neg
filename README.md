@@ -11,7 +11,7 @@
 ##### My Tech Stack is now 👇
 
 #### Frontend      &     Backend       & Databases
-Angular           |  React      | Node.js           | NestJS      PostgreSQL        | MongoDB
+Angular           |  React      | Node.js           | NestJS   |   PostgreSQL        | MongoDB
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 <img src="https://github.com/nik-neg/nik-neg/blob//main/images/angular-icon.svg" alt="drawing" width="100"/> |  <img src="https://github.com/nik-neg/nik-neg/blob//main/images/react.svg" alt="drawing" width="100"/> | <img src="https://github.com/nik-neg/nik-neg/blob//main/images/nodejs.svg" alt="drawing" width="100"/> |  <img src="https://github.com/nik-neg/nik-neg/blob//main/images/nestjs.svg" alt="drawing" width="100"/> | <img src="https://github.com/nik-neg/nik-neg/blob//main/images/postgresql.svg" alt="drawing" width="100"/> |  <img src="https://github.com/nik-neg/nik-neg/blob//main/images/mongodb.svg" alt="drawing" width="100"/> |
 
