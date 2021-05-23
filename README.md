@@ -17,12 +17,12 @@ Angular           |  React
 
 #### Preferred Backend
 -------------------------:|:-------------------------:
-<img src="https://github.com/nik-neg/nik-neg/blob//main/images/nodejs.svg)" alt="drawing" width="100"/> |
-<img src="https://github.com/nik-neg/nik-neg/blob//main/images/nestjs.svg" alt="drawing" width="100"/>
+<img src="https://github.com/nik-neg/nik-neg/blob/main/images/nodejs.svg)" alt="drawing" width="100"/> |
+<img src="https://github.com/nik-neg/nik-neg/blob/main/images/nestjs.svg" alt="drawing" width="100"/>
 
 #### Preferred Programming Languages
 -------------------------:|:-------------------------:|:-------------------------:
-<img src="https://github.com/nik-neg/nik-neg/blob//main/images/typescript-icon.svg)" alt="drawing" width="100"/> |
-<img src="https://github.com/nik-neg/nik-neg/blob//main/images/javascript.svg" alt="drawing" width="100"/> |
-<img src="https://github.com/nik-neg/nik-neg/blob//main/images/python.svg)" alt="drawing" width="100"/>
+<img src="https://github.com/nik-neg/nik-neg/blob/main/images/typescript-icon.svg)" alt="drawing" width="100"/> |
+<img src="https://github.com/nik-neg/nik-neg/blob/main/images/javascript.svg" alt="drawing" width="100"/> |
+<img src="https://github.com/nik-neg/nik-neg/blob/main/images/python.svg)" alt="drawing" width="100"/>
 
