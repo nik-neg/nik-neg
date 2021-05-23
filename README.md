@@ -10,14 +10,12 @@
 
 ##### My Tech Stack is now 👇
 
-#### Preferred Frontend
-Angular           |  React
-:-------------------------:|:-------------------------:
+#### Preferred Frontend           Preferred Backend
+Angular           |  React      | Node.js           | NestJS
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 <img src="https://github.com/nik-neg/nik-neg/blob//main/images/angular-icon.svg" alt="drawing" width="100"/> |  <img src="https://github.com/nik-neg/nik-neg/blob//main/images/react.svg" alt="drawing" width="100"/>
 
-#### Preferred Backend
-Node.js           | NestJS
-:-------------------------:|:-------------------------:
+
 <img src="https://github.com/nik-neg/nik-neg/blob//main/images/nodejs.svg" alt="drawing" width="100"/> |  <img src="https://github.com/nik-neg/nik-neg/blob//main/images/nestjs.svg" alt="drawing" width="100"/>
 
 #### Preferred Programming Languages
