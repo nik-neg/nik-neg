@@ -12,14 +12,14 @@
 
 #### Preferred Frontend
 <img src="https://github.com/nik-neg/appetize/blob//main/images/angular-icon.svg" alt="drawing" width="100"/>
-![alt text](https://github.com/nik-neg/appetize/blob//main/images/angular-icon.svg)
-![alt text](https://github.com/nik-neg/appetize/blob//main/images/react.svg)
+<img src="https://github.com/nik-neg/appetize/blob//main/images/react.svg" alt="drawing" width="100"/>
+
 #### Preferred Backend
-![alt text](https://github.com/nik-neg/appetize/blob//main/images/nodejs.svg)
-![alt text](https://github.com/nik-neg/appetize/blob//main/images/nestjs.svg)
+<img src="https://github.com/nik-neg/appetize/blob//main/images/nodejs.svg)" alt="drawing" width="100"/>
+<img src="https://github.com/nik-neg/appetize/blob//main/images/nestjs.svg" alt="drawing" width="100"/>
+
 #### Preferred Programming Languages
-![alt text](https://github.com/nik-neg/appetize/blob//main/images/typescript-icon.svg)
-![alt text](https://github.com/nik-neg/appetize/blob//main/images/javascript.svg)
-![alt text](https://github.com/nik-neg/appetize/blob//main/images/angular-icon.svg)
-![alt text](https://github.com/nik-neg/appetize/blob//main/images/python.svg)
+<img src="https://github.com/nik-neg/appetize/blob//main/images/typescript-icon.svg)" alt="drawing" width="100"/>
+<img src="https://github.com/nik-neg/appetize/blob//main/images/javascript.svg" alt="drawing" width="100"/>
+<img src="https://github.com/nik-neg/appetize/blob//main/images/python.svg)" alt="drawing" width="100"/>
 
