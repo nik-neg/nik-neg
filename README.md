@@ -11,18 +11,18 @@
 ##### My Tech Stack is now 👇
 
 #### Preferred Frontend
-Solarized dark             |  Solarized Ocean
+Angular           |  React
 :-------------------------:|:-------------------------:
-![]<img src="https://github.com/nik-neg/nik-neg/blob//main/images/angular-icon.svg" alt="drawing" width="100"/> |  ![]<img src="https://github.com/nik-neg/nik-neg/blob//main/images/react.svg" alt="drawing" width="100"/>
-
-
+<img src="https://github.com/nik-neg/nik-neg/blob//main/images/angular-icon.svg" alt="drawing" width="100"/> |  <img src="https://github.com/nik-neg/nik-neg/blob//main/images/react.svg" alt="drawing" width="100"/>
 
 #### Preferred Backend
-<img src="https://github.com/nik-neg/appetize/blob//main/images/nodejs.svg)" alt="drawing" width="100"/>
+-------------------------:|:-------------------------:
+<img src="https://github.com/nik-neg/appetize/blob//main/images/nodejs.svg)" alt="drawing" width="100"/> |
 <img src="https://github.com/nik-neg/appetize/blob//main/images/nestjs.svg" alt="drawing" width="100"/>
 
 #### Preferred Programming Languages
-<img src="https://github.com/nik-neg/appetize/blob//main/images/typescript-icon.svg)" alt="drawing" width="100"/>
-<img src="https://github.com/nik-neg/appetize/blob//main/images/javascript.svg" alt="drawing" width="100"/>
+-------------------------:|:-------------------------:|:-------------------------:
+<img src="https://github.com/nik-neg/appetize/blob//main/images/typescript-icon.svg)" alt="drawing" width="100"/> |
+<img src="https://github.com/nik-neg/appetize/blob//main/images/javascript.svg" alt="drawing" width="100"/> |
 <img src="https://github.com/nik-neg/appetize/blob//main/images/python.svg)" alt="drawing" width="100"/>
 
