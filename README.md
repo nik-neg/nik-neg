@@ -11,6 +11,7 @@
 ##### My Tech Stack is now 👇
 
 #### Preferred Frontend
+<img src="https://github.com/nik-neg/appetize/blob//main/images/angular-icon.svg" alt="drawing" width="100"/>
 ![alt text](https://github.com/nik-neg/appetize/blob//main/images/angular-icon.svg)
 ![alt text](https://github.com/nik-neg/appetize/blob//main/images/react.svg)
 #### Preferred Backend
