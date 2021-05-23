@@ -22,6 +22,6 @@ Node.js           | NestJS
 
 #### Preferred Programming Languages
 TypeScript        | JavaScript      | Python
--------------------------:|:-------------------------:|:-------------------------:
+:-------------------------:|:-------------------------:|:-------------------------:
 <img src="https://github.com/nik-neg/nik-neg/blob/main/images/typescript-icon.svg)" alt="drawing" width="100"/> | <img src="https://github.com/nik-neg/nik-neg/blob/main/images/javascript.svg" alt="drawing" width="100"/> | <img src="https://github.com/nik-neg/nik-neg/blob/main/images/python.svg)" alt="drawing" width="100"/>
 
