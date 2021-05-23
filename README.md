@@ -11,8 +11,11 @@
 ##### My Tech Stack is now 👇
 
 #### Preferred Frontend
-<img src="https://github.com/nik-neg/appetize/blob//main/images/angular-icon.svg" alt="drawing" width="100"/>
-<img src="https://github.com/nik-neg/appetize/blob//main/images/react.svg" alt="drawing" width="100"/>
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![]<img src="https://github.com/nik-neg/appetize/blob//main/images/angular-icon.svg" alt="drawing" width="100"/> |  ![]<img src="https://github.com/nik-neg/appetize/blob//main/images/react.svg" alt="drawing" width="100"/>
+
+
 
 #### Preferred Backend
 <img src="https://github.com/nik-neg/appetize/blob//main/images/nodejs.svg)" alt="drawing" width="100"/>
