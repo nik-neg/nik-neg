@@ -3,8 +3,6 @@
 ### my name is Alex and I'm a Computer Engineer / Full Stack Software Engineer.
 #### I'm interested in Web Development, Machine & Deep Learning, Embedded Systems, and Cloud Computing.
 
-#### You can reach out on [Linkedin](https://www.linkedin.com/in/alexander-genkin-7108081a8/?locale=en_US)
-
 ##### My Tech Stack is now 👇
 
 #### Frontend      &     Backend       & Databases
