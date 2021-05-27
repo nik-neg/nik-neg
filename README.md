@@ -3,6 +3,8 @@
 ### my name is Alex and I'm a Computer Engineer / Full Stack Software Engineer.
 #### I'm interested in Web Development, Machine & Deep Learning, Embedded Systems, and Cloud Computing.
 
+#### Outside of work I'm learning Japanese 🇯🇵, do sports 🏃, and meet friends 😀.
+
 #### My Tech Stack is now 👇
 
 <table>
