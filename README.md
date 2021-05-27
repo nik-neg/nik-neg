@@ -21,7 +21,7 @@ Node.js   | Express  | Koa | NestJS   |   GraphQL
 </td></tr> </table> 
 
 <table>
-<tr><th>Databases </th><th>Technologies</th></tr>
+<tr><th>Databases </th><th>Worked with</th></tr>
 <tr><td>
  
 PostgreSQL | Sequelize | MongoDB | Mongoose
@@ -35,8 +35,11 @@ PostgreSQL | Sequelize | MongoDB | Mongoose
 <img src="https://github.com/nik-neg/nik-neg/blob//main/images/tensorflow.svg" alt="drawing" width="50"/> | <img src="https://github.com/nik-neg/nik-neg/blob//main/images/opencv.svg" alt="drawing" width="50"/> |  <img src="https://github.com/nik-neg/nik-neg/blob//main/images/altera.svg" alt="drawing" width="35"/> | <img src="https://github.com/nik-neg/nik-neg/blob//main/images/android-icon.svg" alt="drawing" width="35"/> 
 </td></tr> </table> 
 
+<table>
+<tr><th>Programming Languages</th></tr>
+<tr><td>
 
-#### Programming Languages
 TypeScript        | JavaScript      | Python      | C++       | Java
-:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+|--|--|--|--|--
 <img src="https://github.com/nik-neg/nik-neg/blob//main/images/typescript-icon.svg" alt="drawing" width="50"/> |  <img src="https://github.com/nik-neg/nik-neg/blob//main/images/javascript.svg" alt="drawing" width="50"/> | <img src="https://github.com/nik-neg/nik-neg/blob//main/images/python.svg" alt="drawing" width="50"/> | <img src="https://github.com/nik-neg/nik-neg/blob//main/images/c-plusplus.svg" alt="drawing" width="50"/> | <img src="https://github.com/nik-neg/nik-neg/blob//main/images/java.svg" alt="drawing" width="50"/>
+ </td></tr> </table> 
