@@ -6,26 +6,27 @@
 #### My Tech Stack is now 👇
 
 <table>
-<tr><th>Frontend </th><th>Backend</th><th>Databases</th></tr>
+<tr><th>Frontend </th><th>Backend</th></tr>
 <tr><td>
 
 |Angular| React |
 |--|--
-<img src="https://github.com/nik-neg/nik-neg/blob//main/images/angular-icon.svg" alt="drawing" width="35"/> |  <img src="https://github.com/nik-neg/nik-neg/blob//main/images/react.svg" alt="drawing" width="35"/>
+<img src="https://github.com/nik-neg/nik-neg/blob//main/images/angular-icon.svg" alt="drawing" width="50"/> |  <img src="https://github.com/nik-neg/nik-neg/blob//main/images/react.svg" alt="drawing" width="50"/>
 
 </td><td>
 
 Node.js   | Express  | Koa | NestJS   |   GraphQL
 |--|--|--|--|--
-<img src="https://github.com/nik-neg/nik-neg/blob//main/images/nodejs.svg" alt="drawing" width="35"/> |  <img src="https://github.com/nik-neg/nik-neg/blob//main/images/express.svg" alt="drawing" width="35"/> | <img src="https://github.com/nik-neg/nik-neg/blob//main/images/koa.svg" alt="drawing" width="35"/> | <img src="https://github.com/nik-neg/nik-neg/blob//main/images/nestjs.svg" alt="drawing" width="35"/> | <img src="https://github.com/nik-neg/nik-neg/blob//main/images/graphql.svg" alt="drawing" width="35"/> 
-  
-</td><td>
-  
+<img src="https://github.com/nik-neg/nik-neg/blob//main/images/nodejs.svg" alt="drawing" width="50"/> |  <img src="https://github.com/nik-neg/nik-neg/blob//main/images/express.svg" alt="drawing" width="50"/> | <img src="https://github.com/nik-neg/nik-neg/blob//main/images/koa.svg" alt="drawing" width="50"/> | <img src="https://github.com/nik-neg/nik-neg/blob//main/images/nestjs.svg" alt="drawing" width="50"/> | <img src="https://github.com/nik-neg/nik-neg/blob//main/images/graphql.svg" alt="drawing" width="50"/> 
+</td></tr> </table> 
+ 
+### Databases 
+
 PostgreSQL | Sequelize | MongoDB | Mongoose
 |--|--|--|--|
-<img src="https://github.com/nik-neg/nik-neg/blob//main/images/postgresql.svg" alt="drawing" width="35"/> | <img src="https://github.com/nik-neg/nik-neg/blob//main/images/sequelize.svg" alt="drawing" width="35"/> |  <img src="https://github.com/nik-neg/nik-neg/blob//main/images/mongodb.svg" alt="drawing" width="35"/> | <img src="https://github.com/nik-neg/nik-neg/blob//main/images/mongoose.png" alt="drawing" width="35"/> | 
+<img src="https://github.com/nik-neg/nik-neg/blob//main/images/postgresql.svg" alt="drawing" width="50"/> | <img src="https://github.com/nik-neg/nik-neg/blob//main/images/sequelize.svg" alt="drawing" width="50"/> |  <img src="https://github.com/nik-neg/nik-neg/blob//main/images/mongodb.svg" alt="drawing" width="35"/> | <img src="https://github.com/nik-neg/nik-neg/blob//main/images/mongoose.png" alt="drawing" width="35"/> | 
 
-</td></tr> </table>
+
 
 ### Technologies I worked with
 #### Programming Languages
