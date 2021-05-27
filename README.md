@@ -26,9 +26,11 @@ PostgreSQL | Sequelize | MongoDB | Mongoose
 |--|--|--|--|
 <img src="https://github.com/nik-neg/nik-neg/blob//main/images/postgresql.svg" alt="drawing" width="50"/> | <img src="https://github.com/nik-neg/nik-neg/blob//main/images/sequelize.svg" alt="drawing" width="50"/> |  <img src="https://github.com/nik-neg/nik-neg/blob//main/images/mongodb.svg" alt="drawing" width="35"/> | <img src="https://github.com/nik-neg/nik-neg/blob//main/images/mongoose.png" alt="drawing" width="35"/> | 
 
-
-
 ### Technologies I worked with
+Tensorflow 2 | OpenCV | Altera | Android
+|--|--|--|--|
+<img src="https://github.com/nik-neg/nik-neg/blob//main/images/tensorflow.svg" alt="drawing" width="50"/> | <img src="https://github.com/nik-neg/nik-neg/blob//main/images/opencv.svg" alt="drawing" width="50"/> |  <img src="https://github.com/nik-neg/nik-neg/blob//main/images/altera.svg" alt="drawing" width="35"/> | <img src="https://github.com/nik-neg/nik-neg/blob//main/images/android.svg" alt="drawing" width="35"/> | 
+
 #### Programming Languages
 TypeScript        | JavaScript      | Python      | C++       | Java
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
