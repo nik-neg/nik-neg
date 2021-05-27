@@ -19,7 +19,18 @@ Node.js   | Express  | Koa | NestJS   |   GraphQL
 |--|--|--|--|--
 <img src="https://github.com/nik-neg/nik-neg/blob//main/images/nodejs.svg" alt="drawing" width="50"/> |  <img src="https://github.com/nik-neg/nik-neg/blob//main/images/express.svg" alt="drawing" width="50"/> | <img src="https://github.com/nik-neg/nik-neg/blob//main/images/koa.svg" alt="drawing" width="50"/> | <img src="https://github.com/nik-neg/nik-neg/blob//main/images/nestjs.svg" alt="drawing" width="50"/> | <img src="https://github.com/nik-neg/nik-neg/blob//main/images/graphql.svg" alt="drawing" width="50"/> 
 </td></tr> </table> 
- 
+
+<table>
+<tr><th>Databases </th><th>Technologies</th></tr>
+<tr><td>
+PostgreSQL | Sequelize | MongoDB | Mongoose
+|--|--|--|--|
+ <img src="https://github.com/nik-neg/nik-neg/blob//main/images/postgresql.svg" alt="drawing" width="50"/> | <img src="https://github.com/nik-neg/nik-neg/blob//main/images/sequelize.svg" alt="drawing" width="50"/> |  <img src="https://github.com/nik-neg/nik-neg/blob//main/images/mongodb.svg" alt="drawing" width="35"/> | <img src="https://github.com/nik-neg/nik-neg/blob//main/images/mongoose.png" alt="drawing" width="35"/> | 
+ </td><td>
+ Tensorflow 2 | OpenCV | Altera | Android
+|--|--|--|--|
+<img src="https://github.com/nik-neg/nik-neg/blob//main/images/tensorflow.svg" alt="drawing" width="50"/> | <img src="https://github.com/nik-neg/nik-neg/blob//main/images/opencv.svg" alt="drawing" width="50"/> |  <img src="https://github.com/nik-neg/nik-neg/blob//main/images/altera.svg" alt="drawing" width="35"/> | <img src="https://github.com/nik-neg/nik-neg/blob//main/images/android-icon.svg" alt="drawing" width="35"/> | 
+</td></tr> </table> 
 ### Databases 
 
 PostgreSQL | Sequelize | MongoDB | Mongoose
@@ -29,7 +40,7 @@ PostgreSQL | Sequelize | MongoDB | Mongoose
 ### Technologies I worked with
 Tensorflow 2 | OpenCV | Altera | Android
 |--|--|--|--|
-<img src="https://github.com/nik-neg/nik-neg/blob//main/images/tensorflow.svg" style="text-align:center" alt="drawing" width="50"/> | <img src="https://github.com/nik-neg/nik-neg/blob//main/images/opencv.svg" alt="drawing" width="50"/> |  <img src="https://github.com/nik-neg/nik-neg/blob//main/images/altera.svg" alt="drawing" width="35"/> | <img src="https://github.com/nik-neg/nik-neg/blob//main/images/android-icon.svg" alt="drawing" width="35"/> | 
+<img src="https://github.com/nik-neg/nik-neg/blob//main/images/tensorflow.svg" alt="drawing" width="50"/> | <img src="https://github.com/nik-neg/nik-neg/blob//main/images/opencv.svg" alt="drawing" width="50"/> |  <img src="https://github.com/nik-neg/nik-neg/blob//main/images/altera.svg" alt="drawing" width="35"/> | <img src="https://github.com/nik-neg/nik-neg/blob//main/images/android-icon.svg" alt="drawing" width="35"/> | 
 
 #### Programming Languages
 TypeScript        | JavaScript      | Python      | C++       | Java
