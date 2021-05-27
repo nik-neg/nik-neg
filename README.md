@@ -15,9 +15,9 @@
 
 </td><td>
 
-|b|1|2|3| 
+Node.js   | Express  | Koa | NestJS   |   GraphQL
 |--|--|--|--|
-|a|s|d|f|
+<img src="https://github.com/nik-neg/nik-neg/blob//main/images/nodejs.svg" alt="drawing" width="50"/> |  <img src="https://github.com/nik-neg/nik-neg/blob//main/images/express.svg" alt="drawing" width="50"/> | <img src="https://github.com/nik-neg/nik-neg/blob//main/images/koa.svg" alt="drawing" width="50"/> | <img src="https://github.com/nik-neg/nik-neg/blob//main/images/nestjs.svg" alt="drawing" width="50"/> | <img src="https://github.com/nik-neg/nik-neg/blob//main/images/graphql.svg" alt="drawing" width="50"/> 
   
 </td><td>
 
@@ -26,11 +26,6 @@
 |a|s|d|f|
 
 </td></tr> </table>
-
-#### Frontend
-Angular   |  React
-:-------------------------:|:-------------------------:
-<img src="https://github.com/nik-neg/nik-neg/blob//main/images/angular-icon.svg" alt="drawing" width="50"/> |  <img src="https://github.com/nik-neg/nik-neg/blob//main/images/react.svg" alt="drawing" width="50"/>
 
 #### Backend
 Node.js   | Express  | Koa | NestJS   |   GraphQL
