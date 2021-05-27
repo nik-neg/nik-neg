@@ -5,10 +5,10 @@
 
 #### My Tech Stack is now 👇
 
-#### Frontend    & Databases
+#### Frontend
 Angular   |  React
 :-------------------------:|:-------------------------:
-<img src="https://github.com/nik-neg/nik-neg/blob//main/images/angular-icon.svg" alt="drawing" width="50"/> |  <img src="https://github.com/nik-neg/nik-neg/blob//main/images/react.svg" alt="drawing" width="50"/> 
+<img src="https://github.com/nik-neg/nik-neg/blob//main/images/angular-icon.svg" alt="drawing" width="50"/> |  <img src="https://github.com/nik-neg/nik-neg/blob//main/images/react.svg" alt="drawing" width="50"/>
 #### Backend
 Node.js   | Express  | Koa | NestJS   |   GraphQL
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
