@@ -3,7 +3,7 @@
 ### my name is Alex and I'm a Computer Engineer / Full Stack Software Engineer.
 #### I'm interested in Web Development, Machine & Deep Learning, Embedded Systems, and Cloud Computing.
 
-##### My Tech Stack is now 👇
+#### My Tech Stack is now 👇
 
 #### Frontend      &     Backend       & Databases
 Angular           |  React      | Node.js           | NestJS   |   PostgreSQL        | MongoDB
