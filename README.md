@@ -10,10 +10,6 @@ Angular   |  React
 :-------------------------:|:-------------------------:
 <img src="https://github.com/nik-neg/nik-neg/blob//main/images/angular-icon.svg" alt="drawing" width="50"/> |  <img src="https://github.com/nik-neg/nik-neg/blob//main/images/react.svg" alt="drawing" width="50"/>
 
-Angular   |  React
-:-------------------------:|:-------------------------:
-<img src="https://github.com/nik-neg/nik-neg/blob//main/images/angular-icon.svg" alt="drawing" width="50"/> |  <img src="https://github.com/nik-neg/nik-neg/blob//main/images/react.svg" alt="drawing" width="50"/>
-
 #### Backend
 Node.js   | Express  | Koa | NestJS   |   GraphQL
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
@@ -21,7 +17,7 @@ Node.js   | Express  | Koa | NestJS   |   GraphQL
 
 #### Databases
 PostgreSQL | Sequelize | MongoDB | Mongoose
-:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 <img src="https://github.com/nik-neg/nik-neg/blob//main/images/postgresql.svg" alt="drawing" width="50"/> | <img src="https://github.com/nik-neg/nik-neg/blob//main/images/sequelize.svg" alt="drawing" width="50"/> |  <img src="https://github.com/nik-neg/nik-neg/blob//main/images/mongodb.svg" alt="drawing" width="50"/> | <img src="https://github.com/nik-neg/nik-neg/blob//main/images/mongoose.png" alt="drawing" width="50"/> | 
 
 ### Technologies I worked with
