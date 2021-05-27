@@ -9,9 +9,9 @@
 <tr><th>Frontend </th><th>Backend</th><th>Databases</th></tr>
 <tr><td>
 
-|Table 1| Middle | Table 2|
-|--|--|--|
-|a| not b|and c |
+|Angular| React |
+|--|--
+<img src="https://github.com/nik-neg/nik-neg/blob//main/images/angular-icon.svg" alt="drawing" width="50"/> |  <img src="https://github.com/nik-neg/nik-neg/blob//main/images/react.svg" alt="drawing" width="50"/>
 
 </td><td>
 
