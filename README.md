@@ -28,7 +28,7 @@ Node.js   | Express  | Koa | NestJS   |   GraphQL
  
 PostgreSQL | TypeORM & Sequelize | MongoDB | Mongoose
 |--|--|--|--
- <img src="https://github.com/nik-neg/nik-neg/blob//main/images/postgresql.svg" alt="drawing" width="50"/> |  <img src="https://github.com/nik-neg/nik-neg/blob//main/images/type_orm.png" alt="drawing" width="50"/> <img src="https://github.com/nik-neg/nik-neg/blob//main/images/sequelize.svg" alt="drawing" width="50"/> |  <img src="https://github.com/nik-neg/nik-neg/blob//main/images/mongodb.svg" alt="drawing" width="35"/> | <img src="https://github.com/nik-neg/nik-neg/blob//main/images/mongoose.png" alt="drawing" width="35"/>
+ <img src="https://github.com/nik-neg/nik-neg/blob//main/images/postgresql.svg" alt="drawing" width="50"/> |  <th> <img src="https://github.com/nik-neg/nik-neg/blob//main/images/type_orm.png" alt="drawing" width="50"/> </th> <th><img src="https://github.com/nik-neg/nik-neg/blob//main/images/sequelize.svg" alt="drawing" width="50"/> </th> |  <img src="https://github.com/nik-neg/nik-neg/blob//main/images/mongodb.svg" alt="drawing" width="35"/> | <img src="https://github.com/nik-neg/nik-neg/blob//main/images/mongoose.png" alt="drawing" width="35"/>
  
  </td><td>
  
