@@ -23,7 +23,7 @@
 </td></tr> </table> 
 
 <table>
-<tr><th>Databases </th><th>Worked with</th></tr>
+<tr><th>Databases & ORM </th><th>Worked with</th></tr>
 <tr><td>
  
 <sub> PostgreSQL </sub> | <sub> TypeORM </sub>  | <sub>  Sequelize </sub> | <sub> MongoDB </sub> | <sub> Mongoose </sub> 
