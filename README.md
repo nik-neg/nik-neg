@@ -38,7 +38,7 @@
 </td></tr> </table> 
 
 <table>
-<tr><th>Programming Languages / Hardware Description Language</th><th>Hardware Description Language</th></tr>
+<tr><th>Programming Languages / Hardware Description Language</th></tr>
 <tr><td>
 
 <sub> TypeScript   </sub>      | <sub> JavaScript </sub>      | <sub> Python </sub>      | <sub> C++ </sub>       | <sub> Java </sub> | <sub> VHDL </sub>
