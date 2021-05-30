@@ -29,10 +29,7 @@
 <sub> PostgreSQL </sub> | <sub> TypeORM </sub>  | <sub>  Sequelize </sub> | <sub> MongoDB </sub> | <sub> Mongoose </sub> 
 |--|--|--|--|--
  <img src="https://github.com/nik-neg/nik-neg/blob//main/images/postgresql.svg" alt="drawing" width="50"/> | <img src="https://github.com/nik-neg/nik-neg/blob//main/images/type_orm.png" alt="drawing" width="50"/> | <img src="https://github.com/nik-neg/nik-neg/blob//main/images/sequelize.svg" alt="drawing" width="50"/>  |  <img src="https://github.com/nik-neg/nik-neg/blob//main/images/mongodb.svg" alt="drawing" width="35"/> | <img src="https://github.com/nik-neg/nik-neg/blob//main/images/mongoose.png" alt="drawing" width="35"/>
- 
- </td><td>
- 
-<table>
+</td></tr> </table> 
  
 <tr><th>Programming Languages / Hardware Description Language</th></tr>
 <tr><td>
@@ -40,7 +37,7 @@
 <sub> TypeScript   </sub>      | <sub> JavaScript </sub>      | <sub> Python </sub>      | <sub> C++ </sub>       | <sub> Java </sub> | <sub> VHDL </sub>
 |--|--|--|--|--|--
 <img src="https://github.com/nik-neg/nik-neg/blob//main/images/typescript-icon.svg" alt="drawing" width="50"/> |  <img src="https://github.com/nik-neg/nik-neg/blob//main/images/javascript.svg" alt="drawing" width="50"/> | <img src="https://github.com/nik-neg/nik-neg/blob//main/images/python.svg" alt="drawing" width="50"/> | <img src="https://github.com/nik-neg/nik-neg/blob//main/images/c-plusplus.svg" alt="drawing" width="50"/> | <img src="https://github.com/nik-neg/nik-neg/blob//main/images/java.svg" alt="drawing" width="50"/> | <img src="https://github.com/nik-neg/nik-neg/blob//main/images/vhdl.png" alt="drawing" width="50"/> 
- </table> 
+</td></tr> </table> 
  
  <table>
 <tr><th>Worked with </th></tr>
