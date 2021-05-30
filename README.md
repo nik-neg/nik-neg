@@ -19,7 +19,7 @@
 
 <sub> Node.js  </sub>  | <sub> Express  </sub> | <sub> Koa </sub> | <sub> NestJS </sub>   | <sub>   GraphQL </sub> 
 |--|--|--|--|--
-<img src="https://github.com/nik-neg/nik-neg/blob//main/images/nodejs.svg" alt="drawing" width="50"/> |  <img src="https://github.com/nik-neg/nik-neg/blob//main/images/express.svg" alt="drawing" width="50"/> | <img src="https://github.com/nik-neg/nik-neg/blob//main/images/koa.svg" alt="drawing" width="50"/> | <img src="https://github.com/nik-neg/nik-neg/blob//main/images/nestjs.svg" alt="drawing" width="50"/> | <img src="https://github.com/nik-neg/nik-neg/blob//main/images/graphql.svg" alt="drawing" width="50"/> 
+<img src="https://github.com/nik-neg/nik-neg/blob//main/images/nodejs.svg" alt="drawing" width="35"/> |  <img src="https://github.com/nik-neg/nik-neg/blob//main/images/express.svg" alt="drawing" width="35"/> | <img src="https://github.com/nik-neg/nik-neg/blob//main/images/koa.svg" alt="drawing" width="35"/> | <img src="https://github.com/nik-neg/nik-neg/blob//main/images/nestjs.svg" alt="drawing" width="35"/> | <img src="https://github.com/nik-neg/nik-neg/blob//main/images/graphql.svg" alt="drawing" width="35"/> 
 </td></tr> </table> 
 
 <table>
@@ -29,7 +29,7 @@
  
 <sub> PostgreSQL </sub> | <sub> TypeORM </sub>  | <sub>  Sequelize </sub> | <sub> MongoDB </sub> | <sub> Mongoose </sub> 
 |--|--|--|--|--
- <img src="https://github.com/nik-neg/nik-neg/blob//main/images/postgresql.svg" alt="drawing" width="50"/> | <img src="https://github.com/nik-neg/nik-neg/blob//main/images/type_orm.png" alt="drawing" width="50"/> | <img src="https://github.com/nik-neg/nik-neg/blob//main/images/sequelize.svg" alt="drawing" width="50"/>  |  <img src="https://github.com/nik-neg/nik-neg/blob//main/images/mongodb.svg" alt="drawing" width="50"/> | <img src="https://github.com/nik-neg/nik-neg/blob//main/images/mongoose.png" alt="drawing" width="50"/>
+ <img src="https://github.com/nik-neg/nik-neg/blob//main/images/postgresql.svg" alt="drawing" width="35"/> | <img src="https://github.com/nik-neg/nik-neg/blob//main/images/type_orm.png" alt="drawing" width="35"/> | <img src="https://github.com/nik-neg/nik-neg/blob//main/images/sequelize.svg" alt="drawing" width="35"/>  |  <img src="https://github.com/nik-neg/nik-neg/blob//main/images/mongodb.svg" alt="drawing" width="35"/> | <img src="https://github.com/nik-neg/nik-neg/blob//main/images/mongoose.png" alt="drawing" width="35"/>
 </td></tr> </table> 
  
  <table>
