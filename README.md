@@ -48,7 +48,7 @@
  </td><td>
  
 <sub> VDHL   </sub>      |
-|--|--|--|--|--
+|--|
 <img src="https://github.com/nik-neg/nik-neg/blob//main/images/vhdl.png" alt="drawing" width="50"/>
  
  </td></tr> </table> 
