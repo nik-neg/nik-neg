@@ -47,8 +47,18 @@
  
  </td><td>
  
-<sub> VDHL   </sub>      |
-|--|
-<img src="https://github.com/nik-neg/nik-neg/blob//main/images/vhdl.png" alt="drawing" width="50"/>
+
+ <table>
+<tr><th>Programming Languages </th><th>Hardware Description Language</th></tr>
+<tr><td>
  
- </td></tr> </table> 
+<sub> TypeScript   </sub>      | <sub> JavaScript </sub>      | <sub> Python </sub>      | <sub> C++ </sub>       | <sub> Java </sub> 
+|--|--|--|--|--
+<img src="https://github.com/nik-neg/nik-neg/blob//main/images/typescript-icon.svg" alt="drawing" width="50"/> |  <img src="https://github.com/nik-neg/nik-neg/blob//main/images/javascript.svg" alt="drawing" width="50"/> | <img src="https://github.com/nik-neg/nik-neg/blob//main/images/python.svg" alt="drawing" width="50"/> | <img src="https://github.com/nik-neg/nik-neg/blob//main/images/c-plusplus.svg" alt="drawing" width="50"/> | <img src="https://github.com/nik-neg/nik-neg/blob//main/images/java.svg" alt="drawing" width="50"/>
+ 
+ </td><td>
+ 
+ <sub> Tensorflow 2 </sub> |  <sub> Scikit-learn </sub> | <sub> OpenCV </sub> | <sub> Altera </sub> | <sub> Android </sub> 
+|--|--|--|--|--
+<img src="https://github.com/nik-neg/nik-neg/blob//main/images/tensorflow.svg" alt="drawing" width="50"/> | <img src="https://github.com/nik-neg/nik-neg/blob//main/images/scikit.jpg" alt="drawing" width="50"/> | <img src="https://github.com/nik-neg/nik-neg/blob//main/images/opencv.svg" alt="drawing" width="50"/> |  <img src="https://github.com/nik-neg/nik-neg/blob//main/images/altera.svg" alt="drawing" width="35"/> | <img src="https://github.com/nik-neg/nik-neg/blob//main/images/android-icon.svg" alt="drawing" width="35"/> 
+</td></tr> </table> 
