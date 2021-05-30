@@ -44,6 +44,4 @@
 <sub> TypeScript   </sub>      | <sub> JavaScript </sub>      | <sub> Python </sub>      | <sub> C++ </sub>       | <sub> Java </sub> | <sub> VHDL </sub>
 |--|--|--|--|--|--
 <img src="https://github.com/nik-neg/nik-neg/blob//main/images/typescript-icon.svg" alt="drawing" width="50"/> |  <img src="https://github.com/nik-neg/nik-neg/blob//main/images/javascript.svg" alt="drawing" width="50"/> | <img src="https://github.com/nik-neg/nik-neg/blob//main/images/python.svg" alt="drawing" width="50"/> | <img src="https://github.com/nik-neg/nik-neg/blob//main/images/c-plusplus.svg" alt="drawing" width="50"/> | <img src="https://github.com/nik-neg/nik-neg/blob//main/images/java.svg" alt="drawing" width="50"/> | <img src="https://github.com/nik-neg/nik-neg/blob//main/images/vhdl.png" alt="drawing" width="50"/> 
- 
- </td><td>
  </table> 
