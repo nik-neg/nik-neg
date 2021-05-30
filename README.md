@@ -32,7 +32,7 @@
  
  </td><td>
  
- <sub> Tensorflow 2 </sub> |  <sub> Tensorflow 2 </sub> | <sub> OpenCV </sub> | <sub> Altera </sub> | <sub> Android </sub> 
+ <sub> Tensorflow 2 </sub> |  <sub> Scikit-learn </sub> | <sub> OpenCV </sub> | <sub> Altera </sub> | <sub> Android </sub> 
 |--|--|--|--|--
 <img src="https://github.com/nik-neg/nik-neg/blob//main/images/tensorflow.svg" alt="drawing" width="50"/> | <img src="https://github.com/nik-neg/nik-neg/blob//main/images/scikit.jpg" alt="drawing" width="50"/> | <img src="https://github.com/nik-neg/nik-neg/blob//main/images/opencv.svg" alt="drawing" width="50"/> |  <img src="https://github.com/nik-neg/nik-neg/blob//main/images/altera.svg" alt="drawing" width="35"/> | <img src="https://github.com/nik-neg/nik-neg/blob//main/images/android-icon.svg" alt="drawing" width="35"/> 
 </td></tr> </table> 
