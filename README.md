@@ -47,7 +47,7 @@
  
  </td><td>
  
-<sub> VHDL   </sub>
+<sub> VHDL   </sub> |
 |--
 <img src="https://github.com/nik-neg/nik-neg/blob//main/images/vhdl.png" alt="drawing" width="50"/> 
  
