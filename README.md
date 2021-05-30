@@ -23,12 +23,13 @@
 </td></tr> </table> 
 
 <table>
+ 
 <tr><th>Databases & ORM </th></tr>
 <tr><td>
  
 <sub> PostgreSQL </sub> | <sub> TypeORM </sub>  | <sub>  Sequelize </sub> | <sub> MongoDB </sub> | <sub> Mongoose </sub> 
 |--|--|--|--|--
- <img src="https://github.com/nik-neg/nik-neg/blob//main/images/postgresql.svg" alt="drawing" width="50"/> | <img src="https://github.com/nik-neg/nik-neg/blob//main/images/type_orm.png" alt="drawing" width="50"/> | <img src="https://github.com/nik-neg/nik-neg/blob//main/images/sequelize.svg" alt="drawing" width="50"/>  |  <img src="https://github.com/nik-neg/nik-neg/blob//main/images/mongodb.svg" alt="drawing" width="35"/> | <img src="https://github.com/nik-neg/nik-neg/blob//main/images/mongoose.png" alt="drawing" width="35"/>
+ <img src="https://github.com/nik-neg/nik-neg/blob//main/images/postgresql.svg" alt="drawing" width="50"/> | <img src="https://github.com/nik-neg/nik-neg/blob//main/images/type_orm.png" alt="drawing" width="50"/> | <img src="https://github.com/nik-neg/nik-neg/blob//main/images/sequelize.svg" alt="drawing" width="50"/>  |  <img src="https://github.com/nik-neg/nik-neg/blob//main/images/mongodb.svg" alt="drawing" width="50"/> | <img src="https://github.com/nik-neg/nik-neg/blob//main/images/mongoose.png" alt="drawing" width="50"/>
 </td></tr> </table> 
  
  <table>
@@ -40,13 +41,13 @@
 <img src="https://github.com/nik-neg/nik-neg/blob//main/images/typescript-icon.svg" alt="drawing" width="50"/> |  <img src="https://github.com/nik-neg/nik-neg/blob//main/images/javascript.svg" alt="drawing" width="50"/> | <img src="https://github.com/nik-neg/nik-neg/blob//main/images/python.svg" alt="drawing" width="50"/> | <img src="https://github.com/nik-neg/nik-neg/blob//main/images/c-plusplus.svg" alt="drawing" width="50"/> | <img src="https://github.com/nik-neg/nik-neg/blob//main/images/java.svg" alt="drawing" width="50"/> | <img src="https://github.com/nik-neg/nik-neg/blob//main/images/vhdl.png" alt="drawing" width="50"/> 
 </td></tr> </table> 
  
- <table>
+<table>
 <tr><th>Worked with </th></tr>
 <tr><td>
 
  <sub> Tensorflow 2 </sub> |  <sub> Scikit-learn </sub> | <sub> OpenCV </sub> | <sub> Altera </sub> | <sub> Android </sub> 
 |--|--|--|--|--
-<img src="https://github.com/nik-neg/nik-neg/blob//main/images/tensorflow.svg" alt="drawing" width="50"/> | <img src="https://github.com/nik-neg/nik-neg/blob//main/images/scikit.jpg" alt="drawing" width="50"/> | <img src="https://github.com/nik-neg/nik-neg/blob//main/images/opencv.svg" alt="drawing" width="50"/> |  <img src="https://github.com/nik-neg/nik-neg/blob//main/images/altera.svg" alt="drawing" width="35"/> | <img src="https://github.com/nik-neg/nik-neg/blob//main/images/android-icon.svg" alt="drawing" width="35"/> 
+<img src="https://github.com/nik-neg/nik-neg/blob//main/images/tensorflow.svg" alt="drawing" width="50"/> | <img src="https://github.com/nik-neg/nik-neg/blob//main/images/scikit.jpg" alt="drawing" width="50"/> | <img src="https://github.com/nik-neg/nik-neg/blob//main/images/opencv.svg" alt="drawing" width="50"/> |  <img src="https://github.com/nik-neg/nik-neg/blob//main/images/altera.svg" alt="drawing" width="50"/> | <img src="https://github.com/nik-neg/nik-neg/blob//main/images/android-icon.svg" alt="drawing" width="50"/> 
 </td></tr> </table> 
 
  </table> 
