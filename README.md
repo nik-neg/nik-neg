@@ -4,6 +4,7 @@
 #### I'm interested in Web Development, Machine & Deep Learning, Embedded Systems, and Cloud Computing.
 
 #### Outside of work I'm learning Japanese 🇯🇵, do sports 🏃, and meet friends 😀.
+[GitHub](http://github.com)
 
 #### My Tech Stack is now 👇
 
