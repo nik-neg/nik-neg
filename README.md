@@ -29,7 +29,7 @@
  
 <sub> PostgreSQL </sub> | <sub> TypeORM </sub>  | <sub>  Sequelize </sub> | <sub> MongoDB </sub> | <sub> Mongoose </sub> 
 |--|--|--|--|--
- <img src="https://github.com/nik-neg/nik-neg/blob//main/images/postgresql.svg" alt="drawing" width="35"/> | <img src="https://github.com/nik-neg/nik-neg/blob//main/images/type_orm.png" alt="drawing" width="35"/> | <img src="https://github.com/nik-neg/nik-neg/blob//main/images/sequelize.svg" alt="drawing" width="35"/>  |  <img src="https://github.com/nik-neg/nik-neg/blob//main/images/mongodb.svg" alt="drawing" width="35"/> | <img src="https://github.com/nik-neg/nik-neg/blob//main/images/mongoose.png" alt="drawing" width="35"/>
+[<img src="https://github.com/nik-neg/nik-neg/blob//main/images/postgresql.svg" alt="drawing" width="35"/>](https://www.postgresql.org/) | [<img src="https://github.com/nik-neg/nik-neg/blob//main/images/type_orm.png" alt="drawing" width="35"/>](https://typeorm.io/#/) | [<img src="https://github.com/nik-neg/nik-neg/blob//main/images/sequelize.svg" alt="drawing" width="35"/>](https://sequelize.org/master/)  |  [<img src="https://github.com/nik-neg/nik-neg/blob//main/images/mongodb.svg" alt="drawing" width="35"/>](https://www.mongodb.com/) | [<img src="https://github.com/nik-neg/nik-neg/blob//main/images/mongoose.png" alt="drawing" width="35"/>](https://mongoosejs.com/)
 </td></tr> </table> 
  
  <table>
