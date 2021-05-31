@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **NestJS 🐈, Docker & Kubernetes**
 
-#### Outside of work I'm learning Japanese 🇯🇵, do sports 🏃, and meet friends 😀.
+- 🌻 Outside of work I'm learning Japanese 🇯🇵, do sports 🏃, and meet friends 😀.
 
 #### My Tech Stack is now 👇
 
