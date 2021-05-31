@@ -2,7 +2,7 @@
 <h3>A Computer Engineer / Full Stack Software Engineer</h3>
 <h3>I'm interested in Web Development, Machine & Deep Learning, and Cloud Computing ☁️ </h3>
 
-- 🌱 I’m currently learning **NestJS 🐈, Docker & Kubernetes**
+- 🌱 I’m currently learning **NestJS 🐈**
 - 🌻 Outside of work I'm interested in Japanese 🇯🇵, do sports 🏃, and meet friends 😀.
 - 🍳 I also like to cook, and
 - ✈️ travelling 
