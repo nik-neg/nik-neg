@@ -1,7 +1,8 @@
-# Hi there 👋,
+<h1 align="center">Hey folks 👋, I'm Alex</h1>
+<h3 align="center">A Computer Engineer / Full Stack Software Engineer</h3>
+<h3 align="center">I'm interested in Web Development, Machine & Deep Learning, Embedded Systems, and Cloud Computing</h3>
 
-### my name is Alex and I'm a Computer Engineer / Full Stack Software Engineer.
-#### I'm interested in Web Development, Machine & Deep Learning, Embedded Systems, and Cloud Computing.
+- 🌱 I’m currently learning **NestJS 🐈, Docker & Kubernetes**
 
 #### Outside of work I'm learning Japanese 🇯🇵, do sports 🏃, and meet friends 😀.
 
@@ -51,11 +52,6 @@
 </td></tr> </table> 
 
  </table> 
-
-<h1 align="center">Hey folks 👋, I'm Alex</h1>
-<h3 align="center">A Computer Engineer / Full Stack Software Engineer</h3>
-
-- 🌱 I’m currently learning **NestJS 🐈, Docker & Kubernetes**
 
 
 <h3 align="left">Languages and Tools:</h3>
