@@ -38,7 +38,7 @@
 
 <sub> TypeScript   </sub>      | <sub> JavaScript </sub>      | <sub> Python </sub>      | <sub> C++ </sub>       | <sub> Java </sub> | <sub> VHDL </sub>
 |--|--|--|--|--|--
-<img src="https://github.com/nik-neg/nik-neg/blob//main/images/typescript-icon.svg" alt="drawing" width="35"/> |  <img src="https://github.com/nik-neg/nik-neg/blob//main/images/javascript.svg" alt="drawing" width="35"/> | <img src="https://github.com/nik-neg/nik-neg/blob//main/images/python.svg" alt="drawing" width="35"/> | <img src="https://github.com/nik-neg/nik-neg/blob//main/images/c-plusplus.svg" alt="drawing" width="35"/> | <img src="https://github.com/nik-neg/nik-neg/blob//main/images/java.svg" alt="drawing" width="35"/> | <img src="https://github.com/nik-neg/nik-neg/blob//main/images/vhdl.png" alt="drawing" width="35"/> 
+[<img src="https://github.com/nik-neg/nik-neg/blob//main/images/typescript-icon.svg" alt="drawing" width="35"/>](https://www.typescriptlang.org/) |  [<img src="https://github.com/nik-neg/nik-neg/blob//main/images/javascript.svg" alt="drawing" width="35"/>](https://www.javascript.com/) | [<img src="https://github.com/nik-neg/nik-neg/blob//main/images/python.svg" alt="drawing" width="35"/>](https://www.python.org/) | [<img src="https://github.com/nik-neg/nik-neg/blob//main/images/c-plusplus.svg" alt="drawing" width="35"/>](https://en.cppreference.com/w/) | [<img src="https://github.com/nik-neg/nik-neg/blob//main/images/java.svg" alt="drawing" width="35"/>](https://java.com/en/) | [<img src="https://github.com/nik-neg/nik-neg/blob//main/images/vhdl.png" alt="drawing" width="35"/>](https://en.wikipedia.org/wiki/VHDL)
 </td></tr> </table> 
  
 <table>
