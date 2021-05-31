@@ -1,6 +1,6 @@
-<h1 align="center">Hey folks 👋, I'm Alex</h1>
-<h3 align="center">A Computer Engineer / Full Stack Software Engineer</h3>
-<h3 align="center">I'm interested in Web Development, Machine & Deep Learning, and Cloud Computing ☁️ </h3>
+<h1>Hey folks 👋, I'm Alex</h1>
+<h3>A Computer Engineer / Full Stack Software Engineer</h3>
+<h3>I'm interested in Web Development, Machine & Deep Learning, and Cloud Computing ☁️ </h3>
 
 - 🌱 I’m currently learning **NestJS 🐈, Docker & Kubernetes**
 
