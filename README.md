@@ -14,7 +14,7 @@
 
 |<sub>  Angular </sub> | <sub>  React </sub> |
 |--|--
-<img src="https://github.com/nik-neg/nik-neg/blob//main/images/angular-icon.svg" alt="drawing" width="35"/> |  <img src="https://github.com/nik-neg/nik-neg/blob//main/images/react.svg" alt="drawing" width="35"/>
+[<img src="https://github.com/nik-neg/nik-neg/blob//main/images/angular-icon.svg" alt="drawing" width="35"/>](https://angular.io/) |  <img src="https://github.com/nik-neg/nik-neg/blob//main/images/react.svg" alt="drawing" width="35"/>
 
 </td><td>
 
