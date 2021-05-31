@@ -6,6 +6,7 @@
 - 🌻 Outside of work I'm interested in Japanese 🇯🇵, do sports 🏃, and meet friends 😀.
 - 🍳 I also like to cook, and
 - ✈️ travelling 
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/alexander-genkin-7108081a8/?locale=en_US)
 
 
 <h3 align="left">Programming Languages and Tools:</h3>
