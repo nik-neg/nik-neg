@@ -3,8 +3,9 @@
 <h3>I'm interested in Web Development, Machine & Deep Learning, and Cloud Computing ☁️ </h3>
 
 - 🌱 I’m currently learning **NestJS 🐈, Docker & Kubernetes**
-
 - 🌻 Outside of work I'm interested in Japanese 🇯🇵, do sports 🏃, and meet friends 😀.
+- 🍳 I also like to cook, and
+- ✈️ travelling 
 
 
 <h3 align="left">Programming Languages and Tools:</h3>
