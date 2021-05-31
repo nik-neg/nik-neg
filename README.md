@@ -2,8 +2,8 @@
 <h3>A Computer Engineer / Full Stack Software Engineer</h3>
 <h3>I'm interested in Web Development, Machine & Deep Learning, and Cloud Computing ☁️ </h3>
 
-- 🌱 I’m currently learning **NestJS 🐈**
-- 🌻 Outside of work I'm interested in Japanese 🇯🇵, do sports 🏃, and meet friends 😀.
+- 🌱 I’m currently interested in **NestJS 🐈** & **Docker 🐋**
+- 🌻 Outside of work I'm learning Japanese 🇯🇵, do sports 🏃, and meet friends 😀.
 - 🍳 I also like to cook, and travelling ✈️
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/alexander-genkin-7108081a8/?locale=en_US)
 
