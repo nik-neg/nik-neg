@@ -19,7 +19,7 @@
 
 <sub> Node.js  </sub>  | <sub> Express  </sub> | <sub> Koa </sub> | <sub> NestJS </sub>   | <sub>   GraphQL </sub> 
 |--|--|--|--|--
-<img src="https://github.com/nik-neg/nik-neg/blob//main/images/nodejs.svg" alt="drawing" width="35"/> |  <img src="https://github.com/nik-neg/nik-neg/blob//main/images/express.svg" alt="drawing" width="35"/> | <img src="https://github.com/nik-neg/nik-neg/blob//main/images/koa.svg" alt="drawing" width="35"/> | <img src="https://github.com/nik-neg/nik-neg/blob//main/images/nestjs.svg" alt="drawing" width="35"/> | <img src="https://github.com/nik-neg/nik-neg/blob//main/images/graphql.svg" alt="drawing" width="35"/> 
+[<img src="https://github.com/nik-neg/nik-neg/blob//main/images/nodejs.svg" alt="drawing" width="35"/>](https://nodejs.org/en/) |  [<img src="https://github.com/nik-neg/nik-neg/blob//main/images/express.svg" alt="drawing" width="35"/>](http://expressjs.com/) | [<img src="https://github.com/nik-neg/nik-neg/blob//main/images/koa.svg" alt="drawing" width="35"/>](https://koajs.com/) | [<img src="https://github.com/nik-neg/nik-neg/blob//main/images/nestjs.svg" alt="drawing" width="35"/>](https://nestjs.com/) | [<img src="https://github.com/nik-neg/nik-neg/blob//main/images/graphql.svg" alt="drawing" width="35"/>](https://graphql.org/)
 </td></tr> </table> 
 
 <table>
