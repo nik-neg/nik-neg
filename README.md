@@ -6,7 +6,6 @@
 - 🌱 I’m currently interested in **NestJS 🐈** and **Docker 🐋**
 - 🌻 Outside of work I'm learning Japanese 🇯🇵, do sports 🏃, and meet friends 😀.
 - 🍳 I also like to cook, and travelling ✈️
-- ⚡ Fun fact: I don't like wet socks or when cobwebs fly in my face 😅
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/alexander-genkin-7108081a8/?locale=en_US)
 
 
