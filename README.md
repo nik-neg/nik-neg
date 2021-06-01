@@ -3,7 +3,7 @@
 <h3>I like to work within Web Development, Machine & Deep Learning, and Cloud Computing ☁️ </h3>
 
 - 🔭 As a side project I'm planning to refactor [Appetize](https://github.com/nik-neg/appetize): make the app full responsive, and add Redux
-- 🌱 I’m currently interested in **[NestJS 🐈](https://nestjs.com/)** and **Docker 🐋**
+- 🌱 I’m currently interested in **[NestJS 🐈](https://nestjs.com/)**, **[Docker](https://www.docker.com/) 🐋** and **[Neo4JS](https://neo4j.com/)**
 - 🌻 Outside of work I'm learning Japanese 🇯🇵, do sports 🏃, and meet friends 😀.
 - 🍳 I also like to cook, and travelling ✈️
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/alexander-genkin-7108081a8/?locale=en_US)
