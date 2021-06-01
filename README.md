@@ -2,6 +2,7 @@
 <h3>A Computer Engineer / Full Stack Software Engineer</h3>
 <h3>I like to work within Web Development, Machine & Deep Learning, and Cloud Computing ☁️ </h3>
 
+- 🔭 As a side project I'm planning to refactor [Appetize](https://github.com/nik-neg/appetize): making the app full responsive, and adding Redux
 - 🌱 I’m currently interested in **NestJS 🐈** and **Docker 🐋**
 - 🌻 Outside of work I'm learning Japanese 🇯🇵, do sports 🏃, and meet friends 😀.
 - 🍳 I also like to cook, and travelling ✈️
