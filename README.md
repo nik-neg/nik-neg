@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **[Appetize](https://github.com/nik-neg/Appetize)** as a side project
 - 🌱 I’m interested in **[AWS ☁️](https://aws.amazon.com/)**,  **[NestJS 🐈](https://nestjs.com/)**, **[Docker](https://www.docker.com/) 🐋** and **[Neo4J](https://neo4j.com/) 🕸️**
-- 🌻 Outside of work I'm learning Japanese 🇯🇵, do sports 🏃, and meet friends 😀.
+- 🌻 Outside of work I'm learning Japanese 🇯🇵, do sports 🏃, and meet friends 😀
 - 🍳 I also like to cook, and travelling ✈️
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/alexander-genkin-7108081a8/?locale=en_US)
 
