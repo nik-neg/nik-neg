@@ -6,7 +6,7 @@
 - 🌱 I’m interested in **[AWS ☁️](https://aws.amazon.com/)**,  **[NestJS 🐈](https://nestjs.com/)**, **[Docker](https://www.docker.com/) 🐋** and **[Neo4J](https://neo4j.com/) 🕸️**
 - 🌻 Outside of work I'm learning languages, do sports 🏃, and meet friends 😀
 - 🍳 I also like to cook, and travelling ✈️
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/alexander-genkin-7108081a8/?locale=en_US)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/alex-genkin-7108081a8/?locale=en_US)
 
 
 <h3 align="left">Programming Languages and Tools:</h3>
