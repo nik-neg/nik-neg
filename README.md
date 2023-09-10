@@ -1,10 +1,10 @@
 <h1>Hi there 👋, I'm Alex</h1>
-<h3>A Computer Engineer / Full Stack Software Engineer</h3>
+<h3>A Full Stack Engineer</h3>
 <h3>I like to work within Web Development, Machine & Deep Learning, and Cloud Computing ☁️ </h3>
 
 - 🔭 I worked recently on **[Phonebook](https://github.com/nik-neg/phonebook)** as a side project
-- 🌱 I’m interested in **[AWS ☁️](https://aws.amazon.com/)**,  **[NestJS 🐈](https://nestjs.com/)**, **[Docker](https://www.docker.com/) 🐋** and **[Neo4J](https://neo4j.com/) 🕸️**
-- 🌻 Outside of work I'm learning languages, do sports 🏃, and meet friends 😀
+- 🌱 I’m interested in **[AWS ☁️](https://aws.amazon.com/)**,  **[NestJS 🐈](https://nestjs.com/)**, **[React](https://react.dev/) ⚛️**
+- 🌻 Outside of work I'm learning Hebrew, do sports 🏃, and go to meet ups
 - 🍳 I also like to cook, and travelling ✈️
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/alex-genkin-7108081a8/?locale=en_US)
 
