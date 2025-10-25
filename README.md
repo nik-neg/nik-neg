@@ -1,6 +1,6 @@
 <h1>Hi there 👋, I'm Alex</h1>
 <h3>A Full Stack Engineer</h3>
-<h3>I like to work within Web Development, Machine & Deep Learning, and Cloud Computing ☁️ </h3>
+<h3>I like to work in Web Development, Machine & Deep Learning, and Cloud Computing ☁️ </h3>
 
 - 🔭 I worked recently on **[drag-and-drop](https://github.com/nik-neg/drag-and-drop)** as a side project
 - 🌱 I’m interested in **[AWS ☁️](https://aws.amazon.com/)**,  **[NestJS 🐈](https://nestjs.com/)**, and **[React](https://react.dev/) ⚛️**
