@@ -4,7 +4,7 @@
 
 - 🔭 I worked recently on **[drag-and-drop](https://github.com/nik-neg/drag-and-drop)** as a side project
 - 🌱 I’m interested in **[AWS ☁️](https://aws.amazon.com/)**,  **[NestJS 🐈](https://nestjs.com/)**, and **[React](https://react.dev/) ⚛️**
-- 🌻 Outside of work I'm learning Hebrew, do sports 🏃, and go to meet ups
+- 🌻 Outside of work I'm learning languages, do sports 🏃, and go to meet ups
 - 🍳 I also like to cook, and travelling ✈️
 
 
