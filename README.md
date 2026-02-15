@@ -6,6 +6,7 @@
 - 🌱 I’m interested in **[AWS ☁️](https://aws.amazon.com/)**,  **[NestJS 🐈](https://nestjs.com/)**, and **[React](https://react.dev/) ⚛️**
 - 🌻 Outside of work I'm learning languages, do sports 🏃, and go to meet ups
 - 🍳 I also like to cook, and travelling ✈️
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/alex-genkin)
 
 
 <h3 align="left">Programming Languages and Tools:</h3>
