@@ -2,7 +2,7 @@
 <h3>A Senior Full Stack Engineer</h3>
 <h3>I like to work in Web Development, AI Engineering, and Cloud Computing ☁️</h3>
 
-- 🌱 I’m interested in **[AWS ☁️](https://aws.amazon.com/)**, **[NestJS 🐈](https://nestjs.com/)**, **[React ⚛️](https://react.dev/)** and **[Langchain 🔗]([https://react.dev/](https://www.langchain.com/))** 
+- 🌱 I’m interested in **[AWS ☁️](https://aws.amazon.com/)**, **[NestJS 🐈](https://nestjs.com/)**, **[React ⚛️](https://react.dev/)** and **[Langchain 🔗](https://www.langchain.com/)** 
 - 🌻 Outside of work I'm learning languages, doing sports 🏃, and going to meetups
 - 🍳 I also like cooking and travelling ✈️
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/alex-genkin)
